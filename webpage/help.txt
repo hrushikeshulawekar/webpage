@@ -1,3 +1,4 @@
 need to install Pipeline: AWS Steps
 Add AWS credential with jenkins
 need to install aws cli pakcage in linux environment
+install github trigger plugin on jenkins
